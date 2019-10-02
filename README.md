@@ -1,5 +1,5 @@
 # This is an Emtpy respository
-Hello coders, 
+Hello coder, 
 
 Looks like you have stumbled into this empty respository.
 
